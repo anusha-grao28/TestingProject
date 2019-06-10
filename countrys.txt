@@ -1,0 +1,14 @@
+{
+    "post_code": "90210",
+    "country": "United States",
+    "country_abbreviation": "US",
+    "places": [
+        {
+            "place_name": "Beverly Hills",
+            "longitude": "-118.4065",
+            "state": "California",
+            "state_abbreviation": "CA",
+            "latitude": "34.0901"
+        }
+     ]
+}
